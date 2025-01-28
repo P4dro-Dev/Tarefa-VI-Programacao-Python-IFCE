@@ -1,7 +1,7 @@
 # Nome: Pedro Henrique Sousa
 # Curso: Técnioo em Informática | IFCE
 # Disciplina: Programação
-# Professora: Raquel 
+# Professora: Raquel Silveiro
 
 # Programa para calcular o peso de uma pessoa em outro planeta com base no peso na Terra e no ID do planeta.
 # Fórmula: Peso_planeta_escolhido = peso_terra / 10.0 * gravidade_planeta_escolhido
