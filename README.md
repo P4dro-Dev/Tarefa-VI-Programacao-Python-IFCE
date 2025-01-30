@@ -1,4 +1,4 @@
 
 # Tarefa-VI-Programa
-Nessa atividade, realizei 4 q
+Nessa atividade, realizei 4 
 
