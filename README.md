@@ -1,2 +1,2 @@
 # Tarefa-VI-Programacao-Py
-Nessa atividade, realizei 4 questões de Python. Qu foi passada comoatiidaedocursoTécnico em Informática, especificamente na disciplina
+Nessa atividade, realizei 4 questões de Python. Qu foi passada comoatiidaedocursoTécnico em Informática, especificamente na disciplin
