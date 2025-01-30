@@ -1,3 +1,4 @@
 
 # Tarefa-VI-Programa
-Nessa atividade, realizei 4 questões de Python. Qu foi
+Nessa atividade, realizei 4 questõe
+s de Python. Qu foi
