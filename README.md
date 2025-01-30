@@ -1,6 +1,6 @@
 
 # Tarefa-VI-Programa
-Nessa atividade, realiz
+Nessa atividade, reali
 
 
 
