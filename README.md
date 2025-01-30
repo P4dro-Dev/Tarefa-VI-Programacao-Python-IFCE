@@ -1,3 +1,3 @@
 
 # Tarefa-VI-Programa
-Nessa atividade, realizei 4 questõe
+Nessa atividade, realizei 4 questõ
