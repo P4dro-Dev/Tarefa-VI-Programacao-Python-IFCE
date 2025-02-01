@@ -1,4 +1,4 @@
-## | Tarefa de Lógica de Prog
+## | Tarefa de Lógica de Progr
 
 
 
