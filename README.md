@@ -1,6 +1,6 @@
 ## 📑| Tarefa de Lógica de Programação
 
-  Essa foi a tarefa de Lógica de Programação, passado no curso Técnico em Informá
+  Essa foi a tarefa de Lógica de Programação, passado no curso Técnico em Informát
 
 
 
