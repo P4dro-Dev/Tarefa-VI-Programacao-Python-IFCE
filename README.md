@@ -2,7 +2,7 @@
 
   Essa foi a tarefa de Lógica de Programação, passada no curso Técnico em Informática. Com o objetivo de exercitarmos nossa Lógica, e conhecimentos da linguagem!
 
-## ⌛| Tempo de co
+## ⌛| Tempo de con
 
 
 
