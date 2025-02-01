@@ -1,4 +1,4 @@
-## | Tarefa de Lógi
+## | Tarefa de Lógic
 
 
 
