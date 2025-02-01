@@ -1,6 +1,6 @@
 ## | Tarefa de Lógica de Programação
 
-  Essa foi tarefa de lógica 
+  Essa foi atarefa de lógica d
 
 
 
