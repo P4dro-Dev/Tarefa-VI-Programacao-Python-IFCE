@@ -1,5 +1,5 @@
-## | Tarefa de Lógica d
-
+## | Tarefa de Lógica de
+e
 
 
 
