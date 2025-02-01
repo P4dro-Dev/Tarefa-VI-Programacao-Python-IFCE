@@ -1,4 +1,4 @@
-## | Tarefa de Lógica de Program
+## | Tarefa de Lógica de Programa
 
 
 
