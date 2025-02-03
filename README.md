@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de conclusão do desafio
 
-  O tempo de conclusão da tarefa, 
+  O tempo de conclusão da tarefa, f
 
 
 
