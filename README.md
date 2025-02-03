@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de conclusão do desafio
 
-  O tempo de conclusão da tar
+  O tempo de conclusão da tare
 
 
 
