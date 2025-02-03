@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de conclusão do desafio
 
-  O tempo de conclusão d
+  O tempo de conclusão do
 
 
 
