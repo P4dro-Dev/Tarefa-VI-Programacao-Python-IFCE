@@ -7,7 +7,7 @@
   O tempo de conclusão da tarefa, foi de aproximadamente, 50 minutos. 
   
 ## 🗂️| Organização do Projeto
-   
+    
    
   
 ## 📱| Contato    
